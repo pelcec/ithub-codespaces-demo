@@ -1,2 +1,2 @@
-# ithub-codespaces-demo
+# github-codespaces-demo
 this is for a demo
